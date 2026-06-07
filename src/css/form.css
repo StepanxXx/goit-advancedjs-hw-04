@@ -28,21 +28,3 @@
   border-color: #4e75ff;
   outline: none;
 }
-
-button {
-  border-radius: 8px;
-  padding: 8px 16px;
-  border: none;
-  cursor: pointer;
-  background-color: #4e75ff;
-
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  color: #fff;
-}
-
-button:hover {
-  background-color: #6c8cff;
-}
