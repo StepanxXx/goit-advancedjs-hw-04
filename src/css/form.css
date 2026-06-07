@@ -29,12 +29,12 @@
   outline: none;
 }
 
-.form button {
+button {
   border-radius: 8px;
   padding: 8px 16px;
   border: none;
   cursor: pointer;
-  background-color: #6c8cff;
+  background-color: #4e75ff;
 
   font-weight: 500;
   font-size: 16px;
@@ -42,6 +42,7 @@
   letter-spacing: 0.04em;
   color: #fff;
 }
-.form button:hover {
+
+button:hover {
   background-color: #6c8cff;
 }
